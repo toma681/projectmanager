@@ -1,0 +1,10 @@
+.repeat {
+    background-image:url(../public/blue-snow.png);
+    background-repeat:repeat;
+}
+
+.logo:hover {
+    cursor: pointer;
+    transform: scaleX(1.05);
+    transform: scaleY(1.05);
+}
