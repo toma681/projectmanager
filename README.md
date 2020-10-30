@@ -2,7 +2,7 @@ Project Management Web Application Built Using Next.js, MongoDB, Websockets, and
 
 All React Components are stored in /Components. The layout that is shared between all pages is also found here.
 
-MongoDB Mongoose models can be found in /Models. Models include:\ 
+MongoDB Mongoose models can be found in /Models. Models include: \
 Ticket - The schema for tickets which include   title: String,\
   ticketID: Number,\
   submitterID: String,\
